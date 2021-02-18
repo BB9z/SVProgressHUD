@@ -32,6 +32,7 @@
 		D396A65F1BE7EB4B00E6E1BF /* SVProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = 63ADC4BA1364C1360060E45B /* SVProgressHUD.m */; };
 		D396A6601BE7EB4D00E6E1BF /* SVIndefiniteAnimatedView.m in Sources */ = {isa = PBXBuildFile; fileRef = B07118281A3264C900C8A614 /* SVIndefiniteAnimatedView.m */; };
 		D396A6611BE7F6BF00E6E1BF /* SVProgressHUD.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 22D13AB61365FEAC0025FCC9 /* SVProgressHUD.bundle */; };
+		D56C88B525DE3D620069FBCE /* KeyboardViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D56C88B325DE3D620069FBCE /* KeyboardViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -66,6 +67,8 @@
 		D36EDBD41BE7E9B000BD0EF1 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		D36EDBDA1BE7E9B100BD0EF1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D36EDBDE1BE7E9B100BD0EF1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D56C88B325DE3D620069FBCE /* KeyboardViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KeyboardViewController.m; sourceTree = "<group>"; };
+		D56C88B425DE3D620069FBCE /* KeyboardViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KeyboardViewController.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +99,8 @@
 				63ADC4B81364C1360060E45B /* SVProgressHUD */,
 				28D7ACF60DDB3853001CB0EB /* ViewController.h */,
 				28D7ACF70DDB3853001CB0EB /* ViewController.m */,
+				D56C88B425DE3D620069FBCE /* KeyboardViewController.h */,
+				D56C88B325DE3D620069FBCE /* KeyboardViewController.m */,
 				3C0DE68E1F6096230062BA4A /* LaunchScreen.storyboard */,
 				3C0DE6901F6096230062BA4A /* Main.storyboard */,
 				1D3623240D0F684500981E51 /* AppDelegate.h */,
@@ -290,6 +295,7 @@
 				B07118291A3264C900C8A614 /* SVIndefiniteAnimatedView.m in Sources */,
 				3CD078EA1A3B809500290D80 /* SVRadialGradientLayer.m in Sources */,
 				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				D56C88B525DE3D620069FBCE /* KeyboardViewController.m in Sources */,
 				1D3623260D0F684500981E51 /* AppDelegate.m in Sources */,
 				28D7ACF80DDB3853001CB0EB /* ViewController.m in Sources */,
 				3C32D9211CAC66CA009CDAB0 /* SVProgressAnimatedView.m in Sources */,
